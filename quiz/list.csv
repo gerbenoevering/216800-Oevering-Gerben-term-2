@@ -1,0 +1,11 @@
+ID;Question;ID_no;ID_yes;ID_dunno
+1;Do you spend more than one our every day on it?;2;4;4
+2;Do you feel you can live without it?;4;3;3
+3;If you cant spend time on it, would it do something with you?;5;11;5
+4;Are you just enjoying doing it?;11;9;5
+5;When you are not doing it, do you have the feeling you mis something?;6;4;3
+6;Is it mentally of physically bad for you?;7;3;3
+7;Should you stop if your life is in huge danger of it?;11;-1;11
+8;Do you think your addicted?;11;-1;-1
+9;do you feel bad you are doing it?;9;2;5
+10;are you doing it because you cant stop doing it?;-1;2;4
